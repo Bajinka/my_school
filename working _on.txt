@@ -1,0 +1,21 @@
+<!-- Gallery Section -->
+<section id="gallery" style="margin: 40px 0; padding: 30px 10px; background: #f4f8fb; border-radius: 12px;">
+    <h2 style="text-align:center; color:#2e86de; margin-bottom:25px;">Student Gallery</h2>
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+        <!-- Example images, replace src with your student images -->
+        <div style="background:#fff; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.07); padding:10px;">
+            <img src="https://img.icons8.com/color/160/000000/student-male--v2.png" alt="Student 1" style="width:160px; height:160px; object-fit:cover; border-radius:8px;">
+            <p style="text-align:center; margin:10px 0 0 0;">Student Name</p>
+        </div>
+        <div style="background:#fff; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.07); padding:10px;">
+            <img src="https://img.icons8.com/color/160/000000/student-female--v2.png" alt="Student 2" style="width:160px; height:160px; object-fit:cover; border-radius:8px;">
+            <p style="text-align:center; margin:10px 0 0 0;">Student Name</p>
+        </div>
+         <div style="background:#fff; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.07); padding:10px;">
+            <img src="https://img.icons8.com/color/160/000000/student-female--v2.png" alt="Student 2" style="width:160px; height:160px; object-fit:cover; border-radius:8px;">
+            <p style="text-align:center; margin:10px 0 0 0;">Student Name</p>
+        </div>
+         <div style="background:#fff; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.07); padding:10px;">
+            <img src="https://img.icons8.com/color/160/000000/student-female--v2.png" alt="Student 2" style="width:160px; height:160px; object-fit:cover; border-radius:8px;">
+            <p style="text-align:center; margin:10px 0 0 0;">Student Name</p>
+        </div>
